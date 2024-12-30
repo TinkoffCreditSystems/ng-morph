@@ -19,7 +19,7 @@
         "jsonc-parser": "3.3.1",
         "minimatch": "10.0.1",
         "multimatch": "5.0.0",
-        "ts-morph": "24.0.0"
+        "ts-morph": "25.0.0"
     },
     "peerDependencies": {
         "@angular-devkit/core": ">=16.0.0",
